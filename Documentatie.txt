@@ -1,0 +1,4 @@
+"Proiect redenumire fisiere"
+
+Cu ajutorul acestui program utilizatorul poate sa isi redenumeasca mai multe
+fisiere cu nume diferite in fisiere cu acelasi nume si numerotate
